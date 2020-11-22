@@ -1,0 +1,11 @@
+{
+    "rabbitMq.userName" : "guest",
+    "rabbitMq.password" : "guest",
+    "rabbitMq.host" : "localhost",
+    "rabbitMq.port" : "5672",
+    "mySql.userName" : "root",
+    "mySql.password" : "root",
+    "mySql.host" : "localhost",
+    "mySql.port" : "3306",
+    "mySql.databaseName" : "pubsub"
+}
