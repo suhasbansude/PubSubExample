@@ -2,7 +2,9 @@
 
 ## 1. Install all required dependencies
   Go and its dependencies
+  
   RabbitMQ
+  
   MySql
 
 ## 2. Create Database
